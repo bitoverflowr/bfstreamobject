@@ -1,4 +1,4 @@
-from . import bfobject as Object
+from .. import bfobject as Object
 
 
 class Stream:
